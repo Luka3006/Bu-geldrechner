@@ -1,2 +1,2 @@
 # Bussgeldrechner
-Frontend by Luka and Backend by Mika :)
+Frontend by me and Backend by Mika :)
